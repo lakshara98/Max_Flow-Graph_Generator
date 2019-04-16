@@ -1,0 +1,6 @@
+
+node { size: 40px; fill-color: #2746ff, #254; fill-mode: gradient-diagonal2; }
+
+edge{
+    arrow-size: 5px, 4px;
+}

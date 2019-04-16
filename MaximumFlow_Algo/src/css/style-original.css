@@ -1,0 +1,7 @@
+
+node { size: 40px; fill-color: #ff0404, #550a08; fill-mode: gradient-diagonal2; }
+
+edge.important{
+    fill-color: #0043ff;
+    arrow-size: 15px, 15px;
+}
